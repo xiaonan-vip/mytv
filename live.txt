@@ -37,3 +37,6 @@ CCTV-17 农业农村,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/ind
 
 杂乱,#genre#
 温特,https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8
+
+常规,#genre#
+https://live.iptv-free.com/iptv/categories/general.m3u
